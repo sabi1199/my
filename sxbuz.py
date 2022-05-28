@@ -68,100 +68,118 @@ def hero():
     #Firstend = now.replace(hour=21, minute=36, second=0, microsecond=0)
     i=0
     while(y):
-        #now = datetime.datetime.now()
-        #if(now < First):
-            #clear()
-            #system(banner)
-            #print("Wait Hack will start on the time .....")
-            print("You can wait for time or Exit")
-            #time.sleep(10)
-            #clear()
-        #elif (now>First and now<Firstend):
-            #while(True):
+        
+        clear()
+        system(banner)
+        print(f"{red}Contact me on telegram @smsn_knt")
+        if (i==0):
+            load()
+            print("Period:            Colour ")
+            system(Commands)
+        if (i==1):
+            load()
+            print("Period:            Colour ")
+            system(Commands1)
+        if (i==2):
+            load()
+            print("Period:            Colour ")
+            system(Commands2)
+        if (i==3):
+            load()
+            print("Period:            Colour ")
+            system(Commands3)
+        if (i==4):
+            load()
+            print("Period:            Colour ")
+            system(Commands4)
+        if (i==5):
+            load()
+            print("Period:            Colour ")
+            system(Commands5)
             
-             clear()
-             system(banner)
-             print(f"{red}Contact me on telegram @smsn_knt")
-             if (i==0):
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands)
-             if (i==1):
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands1)
-             if (i==2):
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands2)
-             if (i==3):
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands3)
-             if (i==4):
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands4)
-             if (i==5):
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands5)
-             if (i==6):
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands6)
-             if (i==7):
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands7)
-             if (i==8):
-                 
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands8)
-             if (i==9):
-                 
-                 load()
-                 print("Period:            Colour ")
-                 system(Commands9)
-
+        if (i==6):
+            load()
+            print("Period:            Colour ")
+            system(Commands6)
+        if (i==7):
+            load()
+            print("Period:            Colour ")
+            system(Commands7)
+        if (i==8):
+            load()
+            print("Period:            Colour ")
+            system(Commands8)
+        if (i==9):
+            load()
+            print("Period:            Colour ")
+            system(Commands9)
             
-            
-            
-            #  #n = random.randint(1,30)
-            #  #  if(n%2==0):
-            #  #      c=f"{red}🔴  Red"
-            #  #  else:
-            #  #      c=f"{green}🟢  Green"
-            #  #  print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
-            #  #  print(f"{yellow}",newperiod,"            ",c)
-            #  print(f"{red}   Period       ", system(Commands))
-             newperiod+=1   
-             i+=1    
-             numbers.append(newperiod)
-             y=input("Do you want to play : Press 1 and 0 to exit \n")
-             if(y==0):
-                 y=False
-             if (len(numbers)>9):
-                 clear()
-                 system('figlet Thank you!!')
-                 print("Play on next specified time!!")
-                 print("-----------Current Time UP----------")
-                 sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
-            #print(numbers)
-             else:
-             break
-    
-    #y=input("Do you want to play : Press 1 and 0 to exit \n")
-    #if(y==0):
-     #   y=False
-    #if (len(numbers)>11):
+        newperiod+=1 
+        i+=1
+        numbers.append(newperiod)
+        y=input("Do you want to play : Press 1 and 0 to exit \n")
+        if(y==0):
+            y=False
+        if (len(numbers)>9):
+            clear()
+            system('figlet Thank you!!')
+        else:
+            Break
     clear()
     system(banner)
     system('figlet Thank you!!')
     print("Play on next specified time!!")
-    print("-----------Current Time UP----------")
-    sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
-        #print(numbers)
-
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
