@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-from distutils.cmd import Command
+#from distutils.cmd import Command
 from os import system, name
 import itertools
 import threading
