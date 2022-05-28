@@ -50,22 +50,22 @@ def hero():
     newperiod=period
     banner='figlet SxBuz 1.0|lolcat'
     numbers=[]
-    Commands='🟢  Green'
-    Commands1='🔴  Redn'
-    Commands2='🔴  Red'
-    Commands3='🟢  Green'
-    Commands4='🟢  Green'
-    Commands5='🟢  Green'
-    Commands6='🔴  Red'
-    Commands7='🟢  Green'
-    Commands8='🔴  Redn'
-    Commands9='🔴  Red'
+    Commands='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms.txt'
+    Commands1='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms1.txt'
+    Commands2='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms2.txt'
+    Commands3='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms3.txt'
+    Commands4='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms4.txt'
+    Commands5='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms5.txt'
+    Commands6='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms6.txt'
+    Commands7='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms7.txt'
+    Commands8='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms8.txt'
+    Commands9='curl http://7206-2401-4900-1687-7e82-ea3f-e7e0-7e64-5646.ngrok.io/ms9.txt'
 
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=23, minute=10, second=0, microsecond=0)
-    Firstend = now.replace(hour=23, minute=53, second=0, microsecond=0)
+    First = now.replace(hour=14, minute=30, second=0, microsecond=0)
+    Firstend = now.replace(hour=14, minute=33, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -222,7 +222,7 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220502351
+    rava=20220502391
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
     Secondend = now.replace(hour=14, minute=55, second=0, microsecond=0)
@@ -232,11 +232,11 @@ else:
     Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=20220502351
+            rava=20220502391
     elif(now>Third and now<Thirdend):
-            rava=20220502351
+            rava=350
     elif(now>Final and now<Finalend):
-            rava=20220502351
+            rava=410
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
@@ -267,7 +267,7 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("2nd May 2022, 05:30 PM - 06:00 PM")
+            print("2nd May 2022, 02:30 PM - 03:00 PM")
 #             print("7th Apr 2022, 05:30 PM- 06:00 PM")
 #             print("7th Apr 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
