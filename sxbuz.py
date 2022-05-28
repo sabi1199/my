@@ -65,7 +65,7 @@ def hero():
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
     First = now.replace(hour=21, minute=30, second=0, microsecond=0)
-    Firstend = now.replace(hour=21, minute=36, second=0, microsecond=0)
+    Firstend = now.replace(hour=22, minute=36, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -222,7 +222,7 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220528441
+    rava=20220528442
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
     Secondend = now.replace(hour=14, minute=55, second=0, microsecond=0)
@@ -236,7 +236,7 @@ else:
     elif(now>Third and now<Thirdend):
             rava=350
     elif(now>Final and now<Finalend):
-            rava=441
+            rava=442
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
