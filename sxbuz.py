@@ -64,8 +64,8 @@ def hero():
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=21, minute=10, second=0, microsecond=0)
-    Firstend = now.replace(hour=21, minute=59, second=0, microsecond=0)
+    First = now.replace(hour=21, minute=30, second=0, microsecond=0)
+    Firstend = now.replace(hour=21, minute=36, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -128,15 +128,14 @@ def hero():
             
             
             
-                 n = random.randint(1,30)
-                
-                 if(n%2==0):
-                    c=f"{red}🔴  Red"
-                 else:
-                    c=f"{green}🟢  Green"
-                 print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
-                 print(f"{yellow}",newperiod,"            ",c)
-                 print(f"{red}   Period       ", system(Commands))
+            #  #n = random.randint(1,30)
+            #  #  if(n%2==0):
+            #  #      c=f"{red}🔴  Red"
+            #  #  else:
+            #  #      c=f"{green}🟢  Green"
+            #  #  print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
+            #  #  print(f"{yellow}",newperiod,"            ",c)
+            #  print(f"{red}   Period       ", system(Commands))
              newperiod+=1   
              i+=1    
              numbers.append(newperiod)
@@ -223,7 +222,7 @@ else:
     night="NAW3"
     nextday="DXS"
     banner='figlet SxBuz 1.0|lolcat'
-    rava=20220528432
+    rava=20220528434
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
     Secondend = now.replace(hour=14, minute=55, second=0, microsecond=0)
