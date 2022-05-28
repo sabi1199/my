@@ -128,14 +128,14 @@ def hero():
             
             
             
-            #  #n = random.randint(1,30)
-            #  #  if(n%2==0):
-            #  #      c=f"{red}🔴  Red"
-            #  #  else:
-            #  #      c=f"{green}🟢  Green"
-            #  #  print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
-            #  #  print(f"{yellow}",newperiod,"            ",c)
-            #  print(f"{red}   Period       ", system(Commands))
+            n = random.randint(1,30)
+             if(n%2==0):
+                  c=f"{red}🔴  Red"
+            else:
+                  c=f"{green}🟢  Green"
+             print(f"{red}  Period          ", f"{neon}"    ,   load(),     f"{green}     Colour")
+             print(f"{yellow}",newperiod,"            ",c)
+             print(f"{red}   Period       ", system(Commands))
              newperiod+=1   
              i+=1    
              numbers.append(newperiod)
