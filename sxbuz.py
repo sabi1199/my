@@ -312,7 +312,7 @@ else:
             print("If you think it is an error contact")
             print("wait.... starting....")
             time.sleep(20)
-            period=400
+            period=440
             hero()
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
         else:
