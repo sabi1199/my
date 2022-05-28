@@ -234,9 +234,9 @@ else:
     if(now>Second and now<Secondend):
             rava=20220502351
     elif(now>Third and now<Thirdend):
-            rava=350
+            rava=20220502351
     elif(now>Final and now<Finalend):
-            rava=410
+            rava=20220502351
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
