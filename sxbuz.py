@@ -151,7 +151,7 @@ def hero():
             #print(numbers)
              else:
              
-             clear
+             
              break
     
     #y=input("Do you want to play : Press 1 and 0 to exit \n")
