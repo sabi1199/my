@@ -61,7 +61,7 @@ def hero():
     Commands8='curl https://4890-103-83-145-28.ngrok.io/ms8.txt'
     Commands9='curl https://4890-103-83-145-28.ngrok.io/ms9.txt'
 
-    #system(banner)
+    system(banner)
     #print(f"{red}Contact me on telegram @smsn_knt")
     #now = datetime.datetime.now()
     #First = now.replace(hour=18, minute=20, second=0, microsecond=0)
@@ -73,14 +73,14 @@ def hero():
             #clear()
             #system(banner)
             #print("Wait Hack will start on the time .....")
-            #print("You can wait for time or Exit")
+            print("You can wait for time or Exit")
             #time.sleep(10)
             #clear()
         #elif (now>First and now<Firstend):
             #while(True):
             
-             #clear()
-             #system(banner)
+             clear()
+             system(banner)
              print(f"{red}Contact me on telegram @smsn_knt")
              if (i==0):
                  load()
