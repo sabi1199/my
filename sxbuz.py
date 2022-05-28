@@ -64,7 +64,7 @@ def hero():
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=23, minute=03, second=0, microsecond=0)
+    First = now.replace(hour=23, minute=3, second=0, microsecond=0)
     Firstend = now.replace(hour=23, minute=53, second=0, microsecond=0)
     i=0
     while(y):
