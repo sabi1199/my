@@ -148,10 +148,7 @@ def hero():
                  print("Play on next specified time!!")
                  print("-----------Current Time UP----------")
                  sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
-            #print(numbers)
-        #else:
-            #clear
-            #break
+        
     
     #y=input("Do you want to play : Press 1 and 0 to exit \n")
     #if(y==0):
